@@ -1,0 +1,16 @@
+/.env
+/.env.*
+!/.env.example
+/vendor/
+/writable/**
+!/writable/**/
+!/writable/**/.gitkeep
+!/writable/.htaccess
+/public/uploads/
+/.idea/
+/.vscode/
+.DS_Store
+Thumbs.db
+*.log
+*.zip
+*.sql.gz
